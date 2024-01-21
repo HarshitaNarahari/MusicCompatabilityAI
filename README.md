@@ -1,5 +1,5 @@
 # MusicCompatabilityAI
-This repository contains my CS4100 Artificial Intelligence project which uses Word Embeddings/Vector Representation and Cosine Similarity in Python to compare two or more songs to curate a playlist.
+This repository contains my final group project for CS4100 Artificial Intelligence which uses Word Embeddings/Vector Representation and Cosine Similarity in Python to compare two or more songs to curate a playlist.
 
 In the NLP file, we have implemented natural language processing and machine learning tasks on a set of song descriptions. It begins by preprocessing the text, converting it to lowercase, removing non-alphanumeric characters, and tokenizing the content. The TF-IDF representation of the preprocessed text is then computed.
 
